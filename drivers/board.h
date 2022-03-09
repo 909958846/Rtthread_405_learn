@@ -350,6 +350,7 @@ extern "C"
  */
 
 /*#define BSP_USING_USBDEVICE*/
+#define BSP_USING_USBDEVICE
 
 /*-------------------------- USB DEVICE CONFIG END --------------------------*/
 

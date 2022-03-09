@@ -1,1 +1,7 @@
-[]
+[
+ {
+  "path": "/packages/tools/vconsole", 
+  "ver": "latest", 
+  "name": "VCONSOLE"
+ }
+]
